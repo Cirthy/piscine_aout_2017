@@ -1,0 +1,8 @@
+Credentials cache: API:03A3E128-7E14-4870-8AF1-97ED35383C1D
+        Principal: clhoffma@42.FR
+
+  Issued                Expires               Principal
+Aug  4 14:24:53 2017  Aug 11 14:24:53 2017  krbtgt/42.FR@42.FR
+Aug  4 14:24:55 2017  Aug 11 14:24:53 2017  ldap/ldap-proxy.42.fr@42.FR
+Aug  4 14:24:55 2017  Aug 11 14:24:53 2017  HTTP/student-storage-1.42.fr@42.FR
+Aug  4 15:10:17 2017  Aug 11 14:24:53 2017  host/vgs-fn1.42.fr@42.FR
